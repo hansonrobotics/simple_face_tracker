@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>simple-face-tracker</name>
+  <name>simple_face_tracker</name>
   <version>0.0.0</version>
   <description>The simple-face-tracker package</description>
 
