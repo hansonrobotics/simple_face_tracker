@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# Copyright (c) 2014 Hanson Robotics, Ltd. 
  
 #----------------------------------------------------------------------------
 # Face Detection Test (OpenCV)
